@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+app-welcome-component{    
+    float: left;
+    margin-top: 136px;
+    z-index: 10;
+}
+app-header{
+    z-index: 1000;
+    position: fixed;
+}
+app-eventslider{
+    background-color: white;
+}
+app-profile{
+    float: left;
+    margin-top: 136px;
+    z-index: 10;
+}
+app-events{
+    float: left;
+    margin-top: 136px;
+    z-index: 10;
+    width: 100%;
+}
+app-gallery{
+    float: left;
+    margin-top: 136px;
+    z-index: 10;
+    width: 100%;
+}
+app-contacts{
+    float: left;
+    margin-top: 136px;
+    width: 100%;
+}

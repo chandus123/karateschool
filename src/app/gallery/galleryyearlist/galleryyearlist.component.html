@@ -1,0 +1,5 @@
+<div class="sidediv">
+    <ul>
+      <li *ngFor="let year of yearlist" ><span (click)="yearSelected(year)" [ngClass]="{'active' : cyear == year}" >{{year}}</span></li>
+    </ul>
+</div>

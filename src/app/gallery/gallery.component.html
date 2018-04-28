@@ -1,0 +1,22 @@
+<div class="row">
+  <div class="col-md-10">
+    <div class="row">
+      <div  class="template col-md-3" *ngFor="let item of currentGallery">
+        <img [src]="item" (click)="open(content, item)" />
+      </div>
+    </div>
+  </div>
+  <div class="col-md-2">
+    <app-galleryyearlist cyear={{currentYear}} (CustomEvent)="onYearSelect($event)" ></app-galleryyearlist>
+  </div>
+</div>
+
+<ng-template #content let-c="close" let-d="dismiss">
+  
+  <div class="modal-body">
+    <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+        <span aria-hidden="true">&times;</span>
+    </button>
+    <img [src]="selectedImg" />
+  </div>
+</ng-template>

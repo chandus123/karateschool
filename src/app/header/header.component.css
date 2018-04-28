@@ -1,0 +1,15 @@
+.cust-nav{
+    background-color:black;
+    position: fixed;
+}
+.cust-logo{
+    height: 120px;
+    width: auto;
+    margin-left: -20px;
+}
+.cust-banner{
+    height: 120px;
+    width: 70%;
+    text-align: center;
+    margin-left: 60px;
+}

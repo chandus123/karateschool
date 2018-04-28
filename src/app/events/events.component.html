@@ -1,0 +1,13 @@
+<div class="row">
+  <div class="col-md-10">
+    <div class="template" *ngFor="let event of currentEvent">
+      <h2>{{event.name}}</h2>
+      <span>Date : {{event.date}}</span>
+      <span>Venue: {{event.venue}}</span>
+      <span><img [src]="event.image" /> </span>
+    </div>
+  </div>
+  <div class="col-md-2">
+    <app-yearlist cYear={{currentYear}} (CustomEvent)="onYearSelect($event)" ></app-yearlist>
+  </div>
+</div>

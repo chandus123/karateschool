@@ -1,0 +1,18 @@
+.cust-container{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
+    min-height: 597px;
+}
+.row{
+	margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.cust-navbar{
+    padding: 0px;
+}
+.cust-outlet{
+    padding-right: 80px;
+}

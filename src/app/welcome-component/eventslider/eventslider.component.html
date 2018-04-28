@@ -1,0 +1,13 @@
+
+<h3 style="color: #E3B74D;" class="text-center">Events</h3>
+
+<ngb-carousel  class="carousel-container cust-container">
+    <ng-template ngbSlide *ngFor="let event of events" >
+      <img class="cust-img" *ngIf="event.image" [src]="event.image" alt="">  
+      <div class="carousel-caption cust-description">
+        <h4>{{event.name}}</h4>
+        <p class="cust-p">{{event.venue}}</p>
+        <p class="cust-p">{{event.date}}</p>
+      </div>
+    </ng-template>
+</ngb-carousel>

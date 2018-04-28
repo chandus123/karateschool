@@ -1,0 +1,22 @@
+ul{
+    list-style-type: none;
+}
+
+ul li{
+    text-decoration: none;
+    margin-top: 8px;
+    border-bottom: 1px solid red;
+    text-align: center;
+    cursor: pointer;
+}
+
+ul li.active{
+    background-color: #B9AF8B;
+}
+
+.active{
+    background-color: orange;
+    color: white;
+    margin: 3px;
+    padding: 3px;
+}

@@ -1,0 +1,18 @@
+.cust-h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.cust-p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.cust-container{
+    margin-top: 20px;
+    background-color: black;
+    text-align: center;
+}
+.cust-img{
+    height:360px;
+    width:auto;
+    text-align: center;
+}
