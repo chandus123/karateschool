@@ -6,6 +6,6 @@ import { YearlistComponent } from './yearlist/yearlist.component';
   imports: [
     CommonModule
   ],
-  declarations: [YearlistComponent]
+  declarations: []
 })
 export class EventsModule { }
