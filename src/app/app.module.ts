@@ -20,6 +20,7 @@ import { FooterComponent } from './footer/footer.component';
 import { WelcomeGallery } from './welcome-component/gallery/gallery.component';
 import { MainService } from './main.service';
 import { GalleryyearlistComponent } from './gallery/galleryyearlist/galleryyearlist.component';
+import { SafeHtmlPipe } from './profile/profile.pipe';
  
 
 const appRoutes: Routes = [
@@ -46,7 +47,8 @@ const appRoutes: Routes = [
     FooterComponent,
     WelcomeGallery,
     YearlistComponent,
-    GalleryyearlistComponent
+    GalleryyearlistComponent,
+    SafeHtmlPipe
   ],
   imports: [
     BrowserModule,

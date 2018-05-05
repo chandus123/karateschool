@@ -1,9 +1,9 @@
-<div class="row" *ngFor="let profile of profiles" >
-    <h3>{{profile.name}}</h3>
-    <div style="width:100%;">
-        <img *ngIf="profile.img" [src]="profile.img" />
+<div class="row row-content" *ngFor="let profile of profiles" >
+    <h3 class="cust-h3" [innerHtml]=" profile.name | safeHtml "></h3>
+    <div class="img-div">
+        <img class="profile-img" *ngIf="profile.img" [src]="profile.img" />
     </div>
     <div style="width:100%;">
-        <p>{{profile.description}}</p>
+        <div [innerHtml]=" profile.description | safeHtml "></div>
     </div>
 </div>
