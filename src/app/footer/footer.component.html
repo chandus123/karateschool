@@ -2,14 +2,14 @@
   <div class="row custom-footer">
     
     <div class="col-md-12 menu">
-        <span class="cust-link">Welcome \</span><span class="cust-link">Profile \</span><span class="cust-link">Events \</span>
-        <span class="cust-link">Gallery \</span><span class="cust-link">Contacts</span>
+        <span class="cust-link"><a routerLinkActive="active" routerLink="/" [routerLinkActiveOptions]="{ exact: true}" >Welcome</a> |</span><span class="cust-link"><a routerLinkActive="active" routerLink="/profile"  >Profile </a> |</span><span class="cust-link"><a routerLinkActive="active" routerLink="/events"  >Events</a> |</span>
+        <span class="cust-link"><a routerLinkActive="active" routerLink="/gallery"  >Gallery</a> |</span><span class="cust-link"><a routerLinkActive="active" routerLink="/contacts"  >Contact</a></span>
     </div>
     <div class="col-md-12">
-        <span class="follow-us">Follow Us On </span> <span class="social-media-name">Facebook</span>
+        <span class="follow-us">Follow Us On </span> <a target="_blank" href="https://www.facebook.com/Ryushin-kan-international-Karate-Do-federation-INDIA-991617934191124/" ><span class="social-media-name">Facebook</span></a>
     </div>
     <div class="col-md-12 copyright">
-        Copyright &copy; {{year}} RIKF
+        Copyright &copy; {{year}} RIKF-India | All rights reserved
     </div>
     
   </div>

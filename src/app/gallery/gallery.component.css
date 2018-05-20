@@ -2,10 +2,34 @@
 {
     margin-top: 10px;
 }
-img{
+.template img{
     width: 100%;
-    height: 100%;
+    height: 125px;
+    margin-bottom: 10px;
 }
 button{
     margin-bottom: 10px;
+}
+.row{
+    margin-top: 8px;
+}
+.leftarrow{
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.rightarrow{
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.options{
+    text-align: center;
+    margin-top: 20px;
+}
+.modal-img{
+    width: 100%;
+    height: 530px;
 }

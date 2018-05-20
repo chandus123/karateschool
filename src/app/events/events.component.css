@@ -6,7 +6,6 @@
     margin-bottom: 5%;
     border-bottom: 1px solid #EABD50;
     padding-bottom: 6px;
-    margin-top: 8px;
 }
 img{
     width:390px;height:auto;
@@ -17,4 +16,7 @@ span{
 }
 h2{
     color: #EABD50;
+}
+.component-class{
+    margin-top: 10px;
 }

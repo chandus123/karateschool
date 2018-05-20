@@ -1,6 +1,7 @@
 .cust-nav{
     background-color:black;
     position: fixed;
+    width: 100%;
 }
 .cust-logo{
     height: 120px;
@@ -9,7 +10,14 @@
 }
 .cust-banner{
     height: 120px;
-    width: 70%;
+    width: 100%;
     text-align: center;
-    margin-left: 60px;
+}
+.col-sm-6{
+    text-align: center;
+}
+@media only screen and (max-width: 400px) {
+    .col-sm-6 img{
+        height: 60px;
+    }
 }

@@ -2,7 +2,6 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 
 app-welcome-component{    
-    float: left;
     margin-top: 136px;
     z-index: 10;
 }
@@ -14,24 +13,20 @@ app-eventslider{
     background-color: white;
 }
 app-profile{
-    float: left;
     margin-top: 136px;
     z-index: 10;
 }
 app-events{
-    float: left;
     margin-top: 136px;
     z-index: 10;
     width: 100%;
 }
 app-gallery{
-    float: left;
     margin-top: 136px;
     z-index: 10;
     width: 100%;
 }
 app-contacts{
-    float: left;
     margin-top: 136px;
     width: 100%;
 }

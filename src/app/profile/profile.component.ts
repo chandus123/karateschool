@@ -2,6 +2,7 @@ import { Component, OnInit, Pipe, PipeTransform, ViewEncapsulation } from '@angu
 import { MainService } from '../main.service';
 import { DomSanitizer } from '@angular/platform-browser';
 import { SafeHtmlPipe } from "./profile.pipe";
+import { Router, NavigationEnd } from '@angular/router';
 
 
 
@@ -19,10 +20,16 @@ export class ProfileComponent implements OnInit {
 
   profiles;
 
-  constructor(private MainService: MainService) { }
+  constructor(private MainService: MainService, private router: Router) { }
 
   ngOnInit() {
     this.profiles = this.MainService.getProfiles();
+    this.router.events.subscribe((evt) => {
+        if (!(evt instanceof NavigationEnd)) {
+            return;
+        }
+        window.scrollTo(0, 0)
+    });
   }
 
 }

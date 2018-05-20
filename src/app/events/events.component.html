@@ -1,9 +1,9 @@
-<div class="row">
+<div class="row component-class">
   <div class="col-md-10">
     <div class="template" *ngFor="let event of currentEvent">
       <h2>{{event.name}}</h2>
-      <span>Date : {{event.date}}</span>
-      <span>Venue: {{event.venue}}</span>
+      <span *ngIf="event.date != '' " >Date : {{event.date}}</span>
+      <span *ngIf="event.venue != '' " >Venue: {{event.venue}}</span>
       <span><img [src]="event.image" /> </span>
     </div>
   </div>

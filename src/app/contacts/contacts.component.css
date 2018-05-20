@@ -1,4 +1,12 @@
 .content{
-    text-align: center;
+    text-align: left;
     margin-top: 20px;
+    border: 1px solid #EABD50;
+    min-height: 400px;
+    padding: 0px;
+}
+.subcontent{
+    padding-bottom: 10px;
+    /* border-bottom: 1px solid #EABD50; */
+    padding-left: 15px;
 }

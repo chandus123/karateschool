@@ -5,9 +5,9 @@
     display: block;
     width: 100%;
     color: #EABD50;
-    
     padding-bottom: 3px;
     text-align: center;
+    border-bottom: 1px solid #EABD50; 
 }
 
 .profile-img{
@@ -15,20 +15,20 @@
     width: auto;
     display: block;
     text-align: center;
-    margin-left: 38%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .img-div{
     width: 100%;
-    border-bottom: 1px solid #EABD50; 
     padding-bottom: 20px;
 }
 
 .p-paragraph{
     text-align: justify;
-    padding-top: 10px;
-    margin-top: 10px;
+    margin-top: 0px;
+    margin-bottom: 2px;
     display: block;
-    margin-left: 30px;
+    margin-left: 0px;
 }
 .cust-table{
     width: 100%;
@@ -45,5 +45,7 @@
 } 
 
 .row-content{
-    margin-bottom: 140px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #EABD50;
+    margin-bottom: 0px;
 }
