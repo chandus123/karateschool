@@ -13,10 +13,14 @@
 
 <ng-template #content let-c="close" let-d="dismiss" >  
   <div class="modal-body">
-    <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
-        <span aria-hidden="true">&times;</span>
-    </button>
-    <img [src]="selectedImg" class="modal-img"/>
+    <div class="close-modal" >
+      <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+          <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div>
+      <img [src]="selectedImg" class="modal-img"/>
+    </div>
     <div class="options">
       <img (click)="previous()" src="../../assets/rightarrow.svg" class="leftarrow" />
       <img (click)="next()" src="../../assets/leftarrow.svg" class="rightarrow" />

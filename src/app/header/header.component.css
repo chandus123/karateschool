@@ -8,16 +8,75 @@
     width: auto;
     margin-left: -20px;
 }
+.cust-logo-second{
+    height: 120px;
+    width: auto;
+    margin-left: 40px;
+}
+.cust-logo-two{
+    left: 40px;
+}
+.cust-logo-three{
+    left: 40px;
+}
 .cust-banner{
     height: 120px;
-    width: 100%;
     text-align: center;
 }
 .col-sm-6{
     text-align: center;
 }
-@media only screen and (max-width: 400px) {
-    .col-sm-6 img{
+.cust-logo-four{
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .cust-logo-one{
+        width: 50%;
+        margin-left: 0px;
+    }
+    .cust-logo-three{
+        left: 0px;
+        width: 50%;
+    }
+    .cust-logo{
+        height: 90px;
+        width: auto;
+        margin-left: 0px;
+    }
+    .cust-logo-second{
+        height: 90px;
+        width: auto;
+        margin-left: 0px;
+        text-align: right;
+        margin-left: 30px;
+    }
+    
+}
+@media only screen and (max-width: 576px) {
+
+    .cust-logo-one{
+        width: 50%;
+        margin-left: 0px;
+    }
+    .cust-logo-three{
+        left: 0px;
+        width: 50%;
+    }
+    .cust-logo{
         height: 60px;
+        width: auto;
+        margin-left: 0px;
+    }
+    .cust-logo-second{
+        height: 60px;
+        width: auto;
+        margin-left: 0px;
+        text-align: right;
+        margin-left: 88px;
+    }
+    .cust-banner{
+        height: 60px;
+        text-align: center;
     }
 }

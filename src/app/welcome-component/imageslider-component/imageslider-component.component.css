@@ -16,3 +16,9 @@
     width:auto;
     text-align: center;
 }
+
+@media only screen and (max-width: 400px) {
+    .cust-img{
+        height:160px;
+    }
+}

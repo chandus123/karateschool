@@ -9,6 +9,7 @@
 }
 img{
     width:390px;height:auto;
+    border: 1px solid rgb(248, 218, 117);
 }
 span{
     display: block;
@@ -16,6 +17,7 @@ span{
 }
 h2{
     color: #EABD50;
+    font-size: 1.4rem;
 }
 .component-class{
     margin-top: 10px;

@@ -21,6 +21,7 @@ import { WelcomeGallery } from './welcome-component/gallery/gallery.component';
 import { MainService } from './main.service';
 import { GalleryyearlistComponent } from './gallery/galleryyearlist/galleryyearlist.component';
 import { SafeHtmlPipe } from './profile/profile.pipe';
+import { MobileNavbarComponent } from './mobile-navbar/mobile-navbar.component';
  
 
 const appRoutes: Routes = [
@@ -48,7 +49,8 @@ const appRoutes: Routes = [
     WelcomeGallery,
     YearlistComponent,
     GalleryyearlistComponent,
-    SafeHtmlPipe
+    SafeHtmlPipe,
+    MobileNavbarComponent
   ],
   imports: [
     BrowserModule,

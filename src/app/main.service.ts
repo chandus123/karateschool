@@ -59,8 +59,13 @@ export class MainService {
     '../../assets/gallery/42.JPG',
     '../../assets/gallery/43.JPG',
     '../../assets/gallery/44.JPG',
+    '../../assets/gallery/44_1.JPG',
+    '../../assets/gallery/44_2.JPG',
+    '../../assets/gallery/44_3.JPG',
+    '../../assets/gallery/44_4.JPG',
     '../../assets/gallery/45.JPG',
     '../../assets/gallery/46.JPG',
+    '../../assets/gallery/46_1.JPG',
     '../../assets/gallery/47.JPG',
     '../../assets/gallery/48.JPG',
     '../../assets/gallery/49.JPG',
@@ -69,8 +74,9 @@ export class MainService {
     '../../assets/gallery/52.JPG',
     '../../assets/gallery/53.JPG',
     '../../assets/gallery/54.JPG',
-    '../../assets/gallery/55.JPG',
-    '../../assets/gallery/56.JPG'
+    '../../assets/gallery/54_1.jpg',
+    '../../assets/gallery/54_2.jpg',
+    '../../assets/gallery/55.JPG'
   ]]
   ]);
 
@@ -256,138 +262,138 @@ export class MainService {
     <table class="cust-table" border="1" style="width:100%; text-align:center;">
     <tbody>
     <td colspan="2" width="148">
-    <p><span style="font-size: medium;">Sho-Dan &nbsp;</span></p>
+    <p><span style=";">Sho-Dan &nbsp;</span></p>
     </td>
     <td width="110">
-    <p><span style="font-size: small;">(1st)&nbsp;</span></p>
+    <p><span style="">(1st)&nbsp;</span></p>
     </td>
     <td colspan="3" width="84">
-    <p><span style="font-size: medium;">1973</span></p>
+    <p><span style=";">1973</span></p>
     </td>
     <td colspan="2" width="116">
-    <p><span style="font-size: medium;">April</span></p>
+    <p><span style=";">April</span></p>
     </td>
     <td width="162">
-    <p><span style="font-size: medium;">21st&nbsp;</span></p>
+    <p><span style=";">21st&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td colspan="2" width="148">
-    <p><span style="font-size: medium;">Ni-Dan&nbsp;</span></p>
+    <p><span style=";">Ni-Dan&nbsp;</span></p>
     </td>
     <td width="110">
-    <p><span style="font-size: small;">(2nd)</span></p>
+    <p><span style="">(2nd)</span></p>
     </td>
     <td colspan="3" width="84">
-    <p><span style="font-size: medium;">1974</span></p>
+    <p><span style=";">1974</span></p>
     </td>
     <td colspan="2" width="116">
-    <p><span style="font-size: medium;">December</span></p>
+    <p><span style=";">December</span></p>
     </td>
     <td width="162">
-    <p><span style="font-size: medium;">12th</span></p>
+    <p><span style=";">12th</span></p>
     </td>
     </tr>
     <tr>
     <td colspan="2" width="148">
-    <p><span style="font-size: medium;">San-Dan</span></p>
+    <p><span style=";">San-Dan</span></p>
     </td>
     <td width="110">
-    <p><span style="font-size: small;">(3rd)</span></p>
+    <p><span style="">(3rd)</span></p>
     </td>
     <td colspan="3" width="84">
-    <p><span style="font-size: medium;">1975</span></p>
+    <p><span style=";">1975</span></p>
     </td>
     <td colspan="2" width="116">
-    <p><span style="font-size: medium;">December</span></p>
+    <p><span style=";">December</span></p>
     </td>
     <td width="162">
-    <p><span style="font-size: medium;">19th</span></p>
+    <p><span style=";">19th</span></p>
     </td>
     </tr>
     <tr>
     <td colspan="2" width="148">
-    <p><span style="font-size: medium;">Yon-Dan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+    <p><span style=";">Yon-Dan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
     </td>
     <td width="110">
-    <p><span style="font-size: small;">(4th)</span></p>
+    <p><span style="">(4th)</span></p>
     </td>
     <td colspan="3" width="84">
-    <p><span style="font-size: medium;">1977</span></p>
+    <p><span style=";">1977</span></p>
     </td>
     <td colspan="2" width="116">
-    <p><span style="font-size: medium;">October</span></p>
+    <p><span style=";">October</span></p>
     </td>
     <td width="162">
-    <p><span style="font-size: medium;">21st&nbsp;&nbsp;</span></p>
+    <p><span style=";">21st&nbsp;&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td colspan="2" width="148">
-    <p><span style="font-size: medium;">Go-Dan&nbsp;&nbsp;</span></p>
+    <p><span style=";">Go-Dan&nbsp;&nbsp;</span></p>
     </td>
     <td width="110">
-    <p><span style="font-size: small;">(5th)&nbsp;</span></p>
+    <p><span style="">(5th)&nbsp;</span></p>
     </td>
     <td colspan="3" width="84">
-    <p><span style="font-size: medium;">1981&nbsp;</span></p>
+    <p><span style=": medium;">1981&nbsp;</span></p>
     </td>
     <td colspan="2" width="116">
-    <p><span style="font-size: medium;">March</span></p>
+    <p><span style=";">March</span></p>
     </td>
     <td width="162">
-    <p><span style="font-size: medium;">23rd</span></p>
+    <p><span style=";">23rd</span></p>
     </td>
     </tr>
     <tr>
     <td colspan="2" width="148">
-    <p><span style="font-size: medium;">Roku-Dan&nbsp;</span></p>
+    <p><span style=";">Roku-Dan&nbsp;</span></p>
     </td>
     <td width="110">
-    <p><span style="font-size: small;">(6th)&nbsp;</span></p>
+    <p><span style="">(6th)&nbsp;</span></p>
     </td>
     <td colspan="3" width="84">
-    <p><span style="font-size: medium;">1985</span></p>
+    <p><span style=";">1985</span></p>
     </td>
     <td colspan="2" width="116">
-    <p><span style="font-size: medium;">March&nbsp;</span></p>
+    <p><span style=";">March&nbsp;</span></p>
     </td>
     <td width="162">
-    <p><span style="font-size: medium;">1st&nbsp;</span></p>
+    <p><span style=";">1st&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td colspan="2" width="148">
-    <p><span style="font-size: medium;">Nana-Dan&nbsp;&nbsp;</span></p>
+    <p><span style=";">Nana-Dan&nbsp;&nbsp;</span></p>
     </td>
     <td width="110">
-    <p><span style="font-size: small;">(7th)</span></p>
+    <p><span style="">(7th)</span></p>
     </td>
     <td colspan="3" width="84">
-    <p><span style="font-size: medium;">1990</span></p>
+    <p><span style=";">1990</span></p>
     </td>
     <td colspan="2" width="116">
-    <p><span style="font-size: medium;">April&nbsp;</span></p>
+    <p><span style=";">April&nbsp;</span></p>
     </td>
     <td width="162">
-    <p><span style="font-size: medium;">17th</span></p>
+    <p><span style=";">17th</span></p>
     </td>
     </tr>
     <tr>
     <td colspan="2" width="148">
-    <p><span style="font-size: medium;">Hachi- Dan</span></p>
+    <p><span style=";">Hachi- Dan</span></p>
     </td>
     <td width="110">
-    <p><span style="font-size: small;">(8th)</span></p>
+    <p><span style="">(8th)</span></p>
     </td>
     <td colspan="3" width="84">
-    <p><span style="font-size: medium;">2000</span></p>
+    <p><span style=";">2000</span></p>
     </td>
     <td colspan="2" width="116">
-    <p><span style="font-size: medium;">November</span></p>
+    <p><span style=";">November</span></p>
     </td>
     <td width="162">
-    <p><span style="font-size: medium;">5th&nbsp;</span></p>
+    <p><span style=";">5th&nbsp;</span></p>
     </td>
     </tr>
     <tr>
@@ -399,70 +405,70 @@ export class MainService {
     
     <tr>
     <td width="79">
-    <p><span style="font-size: medium;">Shido&nbsp;</span></p>
+    <p><span style=";">Shido&nbsp;</span></p>
     </td>
     <td colspan="3" width="181">
-    <p><span style="font-size: small;">Instructor</span></p>
+    <p><span style="">Instructor</span></p>
     </td>
     <td width="76">
-    <p><span style="font-size: small;">1975</span></p>
+    <p><span style="">1975</span></p>
     </td>
     <td colspan="2" width="102">
-    <p><span style="font-size: small;">January</span></p>
+    <p><span style="">January</span></p>
     </td>
     <td colspan="2" width="182">
-    <p><span style="font-size: small;">18th&nbsp;</span></p>
+    <p><span style="">18th&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="79">
-    <p><span style="font-size: medium;">Shihan&nbsp;</span></p>
+    <p><span style=";">Shihan&nbsp;</span></p>
     </td>
     <td colspan="3" width="181">
-    <p><span style="font-size: small;">Head of Dojo</span></p>
+    <p><span style="">Head of Dojo</span></p>
     </td>
     <td width="76">
-    <p><span style="font-size: small;">1992</span></p>
+    <p><span style="">1992</span></p>
     </td>
     <td colspan="2" width="102">
-    <p><span style="font-size: small;">December&nbsp;</span></p>
+    <p><span style="">December&nbsp;</span></p>
     </td>
     <td colspan="2" width="182">
-    <p><span style="font-size: small;">1st&nbsp;</span></p>
+    <p><span style="">1st&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="79">
-    <p><span style="font-size: medium;">Kyoshi&nbsp;</span></p>
+    <p><span style=";">Kyoshi&nbsp;</span></p>
     </td>
     <td colspan="3" width="181">
-    <p><span style="font-size: small;">Leader</span></p>
+    <p><span style="">Leader</span></p>
     </td>
     <td width="76">
-    <p><span style="font-size: small;">1997</span></p>
+    <p><span style="">1997</span></p>
     </td>
     <td colspan="2" width="102">
-    <p><span style="font-size: small;">November&nbsp;</span></p>
+    <p><span style="">November&nbsp;</span></p>
     </td>
     <td colspan="2" width="182">
-    <p><span style="font-size: small;">3rd&nbsp;</span></p>
+    <p><span style="">3rd&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="79">
-    <p><span style="font-size: medium;">Hanshi&nbsp;&nbsp;</span></p>
+    <p><span style=";">Hanshi&nbsp;&nbsp;</span></p>
     </td>
     <td colspan="3" width="181">
-    <p><span style="font-size: small;">Great master&nbsp; ( litt. "model")</span></p>
+    <p><span style="">Great master&nbsp; ( litt. "model")</span></p>
     </td>
     <td width="76">
-    <p><span style="font-size: small;">2000</span></p>
+    <p><span style="">2000</span></p>
     </td>
     <td colspan="2" width="102">
-    <p><span style="font-size: small;">December&nbsp;</span></p>
+    <p><span style="">December&nbsp;</span></p>
     </td>
     <td colspan="2" width="182">
-    <p><span style="font-size: small;">12th&nbsp;</span></p>
+    <p><span style="">12th&nbsp;</span></p>
     </td>
     </tr>
     </tbody>
@@ -474,123 +480,123 @@ export class MainService {
     <tbody>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">April&nbsp;</span></p>
+    <p><span style="">April&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">1965&nbsp;</span></p>
+    <p><span style="">1965&nbsp;</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Joined S.W.K.U</span></p>
+    <p><span style="">Joined S.W.K.U</span></p>
     </td>
     </tr>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">January&nbsp;</span></p>
+    <p><span style="">January&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">1975</span></p>
+    <p><span style="">1975</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Became Superintendent of&nbsp; S.W.K.U.&nbsp;</span></p>
+    <p><span style="">Became Superintendent of&nbsp; S.W.K.U.&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">January&nbsp;</span></p>
+    <p><span style="">January&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">1975</span></p>
+    <p><span style="">1975</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Became Supervisor of&nbsp; S.W.K.U.&nbsp;</span></p>
+    <p><span style="">Became Supervisor of&nbsp; S.W.K.U.&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">July&nbsp;</span></p>
+    <p><span style="">July&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">1978</span></p>
+    <p><span style="">1978</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Branch Chief of&nbsp; Shuko-Kai Youth Karate Development,&nbsp;</span></p>
+    <p><span style="">Branch Chief of&nbsp; Shuko-Kai Youth Karate Development,&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">July&nbsp;</span></p>
+    <p><span style="">July&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">1978</span></p>
+    <p><span style="">1978</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Founded the Shuko-Kai Headquarters' second dojo,&nbsp;</span></p>
+    <p><span style="">Founded the Shuko-Kai Headquarters' second dojo,&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">March&nbsp;</span></p>
+    <p><span style="">March&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">1981</span></p>
+    <p><span style="">1981</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Founded the Zebra Club Headquarters ,&nbsp;</span></p>
+    <p><span style="">Founded the Zebra Club Headquarters ,&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">June&nbsp;</span></p>
+    <p><span style="">June&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">1997</span></p>
+    <p><span style="">1997</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Became Shihan of the Overseas Karate-Do Development,&nbsp;</span></p>
+    <p><span style="">Became Shihan of the Overseas Karate-Do Development,&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">November&nbsp;</span></p>
+    <p><span style="">November&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">1997</span></p>
+    <p><span style="">1997</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Founded the Ryushin-Kan Headquarters,&nbsp;</span></p>
+    <p><span style="">Founded the Ryushin-Kan Headquarters,&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">September&nbsp;</span></p>
+    <p><span style="">September&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">2000</span></p>
+    <p><span style="">2000</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Became President of S.W.K.U. South Africa,&nbsp;</span></p>
+    <p><span style="">Became President of S.W.K.U. South Africa,&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td width="78">
-    <p><span style="font-size: small;">December&nbsp;</span></p>
+    <p><span style="">December&nbsp;</span></p>
     </td>
     <td width="45">
-    <p><span style="font-size: small;">2000</span></p>
+    <p><span style="">2000</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Became Hanshi of S.W.K.U. Headquarters,&nbsp;</span></p>
+    <p><span style="">Became Hanshi of S.W.K.U. Headquarters,&nbsp;</span></p>
     </td>
     </tr>
     <tr>
     <td valign="top" width="78">
-    <p><span style="font-size: small;">March</span></p>
+    <p><span style="">March</span></p>
     </td>
     <td valign="top" width="45">
-    <p><span style="font-size: small;">2002</span></p>
+    <p><span style="">2002</span></p>
     </td>
     <td width="463">
-    <p><span style="font-size: small;">Founded the Ryushin-Kan International Karate-do Federation,&nbsp;</span></p>
+    <p><span style="">Founded the Ryushin-Kan International Karate-do Federation,&nbsp;</span></p>
     </td>
     </tr>
     </tbody>
@@ -598,23 +604,23 @@ export class MainService {
     </center>
     `),
 
-    new Profiledetails('TANI Chojiro (1915 – 1998) <br/><span class="subtitle">Tani-Ha Shito-Ryu/Shukokai</span>','../../assets/03_Sensei_Tani_Chojiro.jpg', `<p class='p-paragraph' ><b>T</b>ANI Chojiro was born in Kobe and started his formal Karate training under CHOJUN Miyagi, the founder of Goju-Ryu.</p><p class='p-paragraph' ><b>H</b>e continued training at the University Karate Club under MABUNI Kenwa, the founder of Shito-Ryu.</p><p class='p-paragraph' ><b>T</b>ANI Chojiro received, as one of MABUNI’s most senior students, the certificate of succession entitling him to use the name of "Tani-Ha Shito-Ryu", the Tani style of Shito-Ryu.</p><p class='p-paragraph' ><b>L</b>ater he found the Shuko-Kai World Karate Union.</p>`),
+    new Profiledetails('TANI Chojiro <span class="make-small">(1915 – 1998)</span><br/><span class="subtitle">Tani-Ha Shito-Ryu/Shukokai</span>','../../assets/03_Sensei_Tani_Chojiro.jpg', `<p class='p-paragraph' ><b>T</b>ANI Chojiro was born in Kobe and started his formal Karate training under CHOJUN Miyagi, the founder of Goju-Ryu.</p><p class='p-paragraph' ><b>H</b>e continued training at the University Karate Club under MABUNI Kenwa, the founder of Shito-Ryu.</p><p class='p-paragraph' ><b>T</b>ANI Chojiro received, as one of MABUNI’s most senior students, the certificate of succession entitling him to use the name of "Tani-Ha Shito-Ryu", the Tani style of Shito-Ryu.</p><p class='p-paragraph' ><b>L</b>ater he found the Shuko-Kai World Karate Union.</p>`),
     
-    new Profiledetails('MABUNI Kenwa (1887 – 1952) <br/><span class="subtitle">Shito-Ryu</span>','../../assets/04_Sensei_Mabuni_Kenwa.jpg', `<p class='p-paragraph' ><b>M</b>ABUNI Kenwa started karate at the age of 13 under ITOSU Anko, the man who organized early karate in the Okinawan school system.</p>
+    new Profiledetails('MABUNI Kenwa <span class="make-small">(1887 – 1952)</span> <br/><span class="subtitle">Shito-Ryu</span>','../../assets/04_Sensei_Mabuni_Kenwa.jpg', `<p class='p-paragraph' ><b>M</b>ABUNI Kenwa started karate at the age of 13 under ITOSU Anko, the man who organized early karate in the Okinawan school system.</p>
     <p class='p-paragraph' ><b>I</b>TOSU and MABUNI developed a very close master-disciple relationship.</p>
     <p class='p-paragraph' ><b>M</b>ABUNI was the natural "heir" of  23 kata handed down by his master.</p>
     <p class='p-paragraph' ><b>C</b>HOJUM Miyagi introduced MABUNI to HIGASHIONNA Kanryo and he began to learn under him as well.</p>
     <p class='p-paragraph' ><b>W</b>hen ITOSU died, MABUNI became his successor.
     Later MABUNI found Shito-Ryu.</p>`),
 
-    new Profiledetails('HIGASHIONNA Kanryo (1853 – 1915) <br/><span class="subtitle">Naha-Te</span>','../../assets/05_Sensei_Higashionna_Kanryo.jpg', `<p class='p-paragraph' ><b>H</b>IGASHIONNA Kanryo was born in Naha, who finally formalized Naha-te, a Chinese style karate.</p>
+    new Profiledetails('HIGASHIONNA Kanryo <span class="make-small">(1853 – 1915)</span> <br/><span class="subtitle">Naha-Te</span>','../../assets/05_Sensei_Higashionna_Kanryo.jpg', `<p class='p-paragraph' ><b>H</b>IGASHIONNA Kanryo was born in Naha, who finally formalized Naha-te, a Chinese style karate.</p>
     <p class='p-paragraph' ><b>H</b>e learned the Shorinji-Kempo, and after becoming the Okinawa royal family official martial artist, devoted his life to developing the Naha-te style and teaching.</p>`),
     
-    new Profiledetails('ITOSU Anko (1830 – 1915)  <br/><span class="subtitle">Shuri-Te</span>','../../assets/06_Sensei_Itosu_Anko.jpg', `<p class='p-paragraph' ><b>I</b>TOSU Anko was the man  who organized early karate in the Okinawan school system.</p>
-    <p class='p-paragraph' ><b>I</b>TOSU was a student of one of Okinawa's most famous karate masters, MATSUMURA Sokon (1850-1899), founder of Shorin-ryu.</p>
+    new Profiledetails('ITOSU Anko <span class="make-small">(1830 – 1915)</span>  <br/><span class="subtitle">Shuri-Te</span>','../../assets/06_Sensei_Itosu_Anko.jpg', `<p class='p-paragraph' ><b>I</b>TOSU Anko was the man  who organized early karate in the Okinawan school system.</p>
+    <p class='p-paragraph' ><b>I</b>TOSU was a student of one of Okinawa's most famous karate masters, MATSUMURA Sokon (1809-1899).</p>
     <p class='p-paragraph' ><b>I</b>n 1908 he wrote a letter to the Prefectural Educational Department encouraging the introduction of Karate (Tode) to all Okinawan schools including those on the Japanese mainland.</p>`),
 
-    new Profiledetails('MATSUMURA Sokon (1809 - 1899)  <br/><span class="subtitle">Shuri-Te</span>','../../assets/07_Matsumura_Sokon.jpg', `<p class='p-paragraph' ><b>MATSUMURA</b> Sokon was one of the original karate masters of Okinawa.</p><p class='p-paragraph' ><b>MATSUMURA</b> began the study of karate under the guidance of Sakukawa Kanga.</p><p class='p-paragraph' >in 1836 <b>MATSUMURA</b> was recruited into the service of the Sho family, the royal family of the Ryukyu Kingdome and received the title Shikudon a gentry rank.</p><p class='p-paragraph' ><b>MATSUMURA</b> is credited with passing on the Shorin-Ryu Kempo-Karate kata known as Naihanchi I & II, Passai, Seisan, Chinto, Gojushiho, Kusanku  and Hakutsuru.</p><p class='p-paragraph' ><b>MATSUMURA</b> was given the title "Bushi" meaning "Warrior" by the Okinawan king in recognition of his abilities and accomplishments in the martial arts.
+    new Profiledetails('MATSUMURA Sokon <span class="make-small">(1809 - 1899)</span>  <br/><span class="subtitle">Shuri-Te</span>','../../assets/07_Matsumura_Sokon.jpg', `<p class='p-paragraph' ><b>M</b>ATSUMURA Sokon was one of the original karate masters of Okinawa.</p><p class='p-paragraph' ><b>M</b>ATSUMURA began the study of karate under the guidance of Sakukawa Kanga.</p><p class='p-paragraph' ><b>I</b>n 1836 MATSUMURA was recruited into the service of the Sho family, the royal family of the Ryukyu Kingdome and received the title Shikudon a gentry rank.</p><p class='p-paragraph' ><b>M</b>ATSUMURA is credited with passing on the Shorin-Ryu Kempo-Karate kata known as Naihanchi I & II, Passai, Seisan, Chinto, Gojushiho, Kusanku  and Hakutsuru.</p><p class='p-paragraph' ><b>M</b>ATSUMURA was given the title "Bushi" meaning "Warrior" by the Okinawan king in recognition of his abilities and accomplishments in the martial arts.
     </p>`)
     
   ]

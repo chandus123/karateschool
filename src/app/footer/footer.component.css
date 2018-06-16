@@ -1,11 +1,11 @@
 footer{
-	z-index: 9999;
+	z-index: 1000;
 	bottom: 0px;
 }
 .footer-bs {
     background-color: #000000;
 	color: rgba(255,255,255,1.00);
-	z-index: 9999;
+	z-index: 1000;
 	position: relative;
 }
 .footer-bs .footer-brand, .footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns { padding:10px 25px; }
@@ -55,7 +55,7 @@ footer{
 	margin-left: 0px !important;
 	margin-right: 0px !important;
 	width: 100%;
-	z-index: 9999;
+	z-index: 1000;
 	text-align: center;
 }
 
@@ -81,4 +81,7 @@ footer{
 }
 .menu{
 	margin-top: 10px;
+}
+a{
+	color: white;
 }

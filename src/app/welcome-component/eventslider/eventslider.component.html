@@ -4,10 +4,10 @@
 <ngb-carousel  class="carousel-container cust-container">
     <ng-template ngbSlide *ngFor="let event of events" >
       <img class="cust-img" *ngIf="event.image" [src]="event.image" alt="">  
-      <div class="carousel-caption cust-description">
+      <!-- <div class="carousel-caption cust-description">
         <h4>{{event.name}}</h4>
         <p class="cust-p">{{event.venue}}</p>
         <p class="cust-p">{{event.date}}</p>
-      </div>
+      </div> -->
     </ng-template>
 </ngb-carousel>
