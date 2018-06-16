@@ -11,3 +11,13 @@
     margin-right: 0px;
     margin-left: 0px;
 }
+
+.main-heading-font{
+    font-weight: 650 !important;
+    text-transform: capitalize !important;
+    color: #D2691E !important;
+}
+
+.main-general-font{
+    font-weight: 600 !important;
+}

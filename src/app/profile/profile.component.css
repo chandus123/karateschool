@@ -56,3 +56,13 @@
 .make-small{
     font-size: 1.0rem; 
 }
+
+.main-heading-font{
+    font-weight: 650 !important;
+    text-transform: capitalize !important;
+    color: #D2691E !important;
+}
+
+.main-general-font{
+    font-weight: 600 !important;
+}

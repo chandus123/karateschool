@@ -7,6 +7,12 @@
     border-bottom: 1px solid #EABD50;
     padding-bottom: 6px;
 }
+
+.event-md-div{
+    margin-left: -100px;
+    margin-top: 10px;
+}
+
 img{
     width:390px;height:auto;
     border: 1px solid rgb(248, 218, 117);
@@ -21,4 +27,24 @@ h2{
 }
 .component-class{
     margin-top: 10px;
+}
+
+.main-heading-font{
+    font-weight: 650 !important;
+    text-transform: capitalize !important;
+    color: #D2691E !important;
+}
+
+.main-general-font{
+    font-weight: 600 !important;
+}
+
+.glry-cls{
+    border-left: 1px solid black;
+    margin-top: -8px;
+    position: fixed;
+    margin-left: 838px;
+    padding: 0px;
+    height: 100%;
+    width: 150px !important;
 }

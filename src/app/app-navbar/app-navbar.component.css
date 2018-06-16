@@ -129,6 +129,12 @@
   line-height: 65px;
   display: inline-block;
 }
+
+.main-general-font{
+    font-weight: 600 !important;
+}
+
+
 /* media query */
 @media (max-width:767px) {
     #wrapper {

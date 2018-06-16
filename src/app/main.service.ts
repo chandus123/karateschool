@@ -78,6 +78,8 @@ export class MainService {
     '../../assets/gallery/54_2.jpg',
     '../../assets/gallery/55.JPG'
   ]]
+
+
   ]);
 
   

@@ -85,3 +85,6 @@ footer{
 a{
 	color: white;
 }
+.main-general-font{
+    font-weight: 600 !important;
+}

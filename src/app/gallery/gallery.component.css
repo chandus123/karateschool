@@ -56,3 +56,13 @@ button{
     position: relative;
     height: 40px;
 }
+
+.glry-cls{
+    border-left: 1px solid black;
+    margin-top: -8px;
+    position: fixed;
+    margin-left: 838px;
+    padding: 0px;
+    height: 100%;
+    width: 150px !important;
+}

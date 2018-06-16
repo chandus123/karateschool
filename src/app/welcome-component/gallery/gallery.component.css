@@ -5,9 +5,14 @@
     text-align: center;
 }
 .cust-img{
-    height: 360px;
+    height: 300px;
     width: auto;
     text-align: center;
     padding-top: 70px;
     padding-bottom: 70px;
+}
+.main-heading-font{
+    font-weight: 650 !important;
+    text-transform: capitalize !important;
+    color: #D2691E !important;
 }

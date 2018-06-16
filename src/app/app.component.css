@@ -28,7 +28,13 @@
 
 .router-class{
     margin-top: 136px;
-    margin-left: 120px;
+    margin-left: 150px;
+}
+
+.main-heading-font{
+    font-weight: 650px !important;
+    text-transform: capitalize !important;
+    color: #D2691E !important;
 }
 
 @media only screen and (max-width: 400px) {
