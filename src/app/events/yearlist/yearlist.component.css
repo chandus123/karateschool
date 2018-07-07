@@ -9,11 +9,8 @@ ul{
 
 ul li{
     text-decoration: none;
-    margin-top: 8px;
     text-align: center;
     cursor: pointer;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 ul li.active{
@@ -23,12 +20,8 @@ ul li.active{
 .active{
     background-color: #e3b74d;
     color: black;
-    margin: 3px;
-    padding: 3px;
     font-weight: 600;
 }
-
-
 
 ul{
     margin: 0px;
@@ -37,9 +30,7 @@ ul{
 
 .spn-cls{
     width: 100%;
-    margin-left: 0px !important;
-    padding-left: 50px;
-    padding-right: 62px;
-    padding-top: 15px;
-    padding-bottom: 20px;
+    display: block;
+    height: 48px;
+    padding-top: 14px;
 }

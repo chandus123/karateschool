@@ -20,3 +20,9 @@
 .main-general-font{
     font-weight: 600 !important;
 }
+
+.custom-content{
+    margin-left: 120px;
+    padding-left: 30px;
+    padding-right: 30px;
+}

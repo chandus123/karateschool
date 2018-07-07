@@ -11,13 +11,13 @@
 }
 .template img{
     width: auto;
-    height: 150px;
+    height: 120px;
     margin-bottom: 10px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
-    max-width: 180px;
+    max-width: 130px;
     cursor: pointer;
 }
 button{
@@ -61,8 +61,12 @@ button{
     border-left: 1px solid black;
     margin-top: -8px;
     position: fixed;
-    margin-left: 838px;
     padding: 0px;
     height: 100%;
     width: 150px !important;
+    right: 0px;
+}
+
+.cust-content{
+    margin-left: 164px;
 }

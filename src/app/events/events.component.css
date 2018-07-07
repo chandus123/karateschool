@@ -9,7 +9,7 @@
 }
 
 .event-md-div{
-    margin-left: -100px;
+    margin-left: 40px;
     margin-top: 10px;
 }
 
@@ -43,7 +43,7 @@ h2{
     border-left: 1px solid black;
     margin-top: -8px;
     position: fixed;
-    margin-left: 838px;
+    right: 0px;
     padding: 0px;
     height: 100%;
     width: 150px !important;

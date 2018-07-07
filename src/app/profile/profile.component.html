@@ -1,5 +1,5 @@
 <div class="row">
-<div class="col-md-10">
+<div class="col-md-10 cust-content">
 <div class="row row-content" *ngFor="let profile of profiles" >
     <h3 class="cust-h3 main-heading-font" [innerHtml]=" profile.name | safeHtml "></h3>
     <div class="img-div">
@@ -9,7 +9,5 @@
         <div class="main-general-font" [innerHtml]=" profile.description | safeHtml "></div>
     </div>
 </div>
-</div>
-<div class="col-md-2">
 </div>
 </div>

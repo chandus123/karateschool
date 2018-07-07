@@ -21,3 +21,9 @@
 .main-general-font{
     font-weight: 600 !important;
 }
+
+.cust-content{
+    margin-left: 80px;
+    padding-left: 65px;
+    padding-right: 66px;
+}
