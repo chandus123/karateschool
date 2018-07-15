@@ -22,7 +22,14 @@
 }
 
 .custom-content{
-    margin-left: 120px;
-    padding-left: 30px;
-    padding-right: 30px;
+    margin-left: auto;
+    padding-left: 0px;
+    margin-right: auto;
+    padding-right: 0px;
+    text-align: center;
+}
+
+.change-row{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }

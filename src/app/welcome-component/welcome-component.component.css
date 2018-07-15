@@ -1,7 +1,5 @@
 .content-div{
     margin-top: 20px;
-    padding-left:10px;
-    padding-right: 10px;
 }
 .custom-p{
     /* font-family: 'Times New Roman', Times, serif; */
@@ -23,7 +21,9 @@
 }
 
 .cust-content{
-    margin-left: 80px;
-    padding-left: 65px;
-    padding-right: 66px;
+    margin-left: auto;
+    padding-left: 0px;
+    margin-right: auto;
+    padding-right: 0px;
+    text-align: center;
 }

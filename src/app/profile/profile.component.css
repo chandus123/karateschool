@@ -68,7 +68,12 @@
 }
 
 .cust-content{
-    margin-left: 80px;
-    padding-left: 100px;
-    padding-right: 90px;
+    margin-left: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: auto;
 }
+/* .row{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+} */
