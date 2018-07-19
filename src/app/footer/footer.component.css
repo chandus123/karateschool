@@ -88,3 +88,14 @@ a{
 .main-general-font{
     font-weight: 600 !important;
 }
+.footer-left{
+	width: 150px;
+	/* display: inline; */
+}
+.footer-right{
+	width: 150px;
+	/* display: inline; */
+}
+.center-row{
+	width: calc(100% -300px);
+}
