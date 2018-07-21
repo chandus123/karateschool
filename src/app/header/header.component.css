@@ -34,4 +34,18 @@
     width: 150px;
     text-align: center;
 }
+.banner-holder{
+    text-align: center;
+}
+@media screen and (min-width: 0px) and (max-width: 1014px) {
+    .cust-logo-four{
+        display: block;
+    }
+    .cust-logo-three{
+        display: none;
+    }
+    .banner-holder{
+        width: 100%;
+    }
+}
 
