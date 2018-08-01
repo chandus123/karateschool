@@ -32,7 +32,7 @@
 
 .router-class{
     margin-top: 136px;
-    width: 80%;
+    width: calc(100% - 300px);
 }
 
 .main-heading-font{

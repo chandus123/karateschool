@@ -1,7 +1,7 @@
 <div class="row component-class">
-  <div class="col-md-12 cust-content">
+  <div class="col-md-10 cust-content">
     <div class="row">
-      <div  class="template col-md-2" *ngFor="let item of currentGallery;let i = index">
+      <div  class="template col-md-3" *ngFor="let item of currentGallery;let i = index">
         <img [src]="item" (click)="open(content, item, i)" />
       </div>
     </div>
