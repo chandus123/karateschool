@@ -627,6 +627,41 @@ export class MainService {
     
   ]
 
+  listDan = [
+    {'name': 'SUNNY GEEVARGHESE', 'dan': '7TH Dan', 'description': 'Chief Instructor & Examiner - India','rank':'1', 'img': '../../assets/members/SUNNY_GEEVARGHESE.jpg'},
+    {'name': 'SYAMAN K G', 'dan': '6TH Dan', 'description': 'Co – Ordinator - India','rank':'1', 'img': '../../assets/members/SYAMAN_K_G.jpg'},
+    {'name': 'RONY S GEEVARGHESE', 'dan': '3rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/RONY_S_GEEVARGHESE.jpg'},
+    {'name': 'SONY SUNNY', 'dan': '3rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/SONY_SUNNY.jpg'},
+    {'name': 'VARGHESE T', 'dan': '3rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/VARGHESE_T.jpg'},
+    {'name': 'REMGARAJAN P T', 'dan': '3rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/REMGARAJAN_P_T.jpg'},
+    {'name': 'FRANCIS GEORGE', 'dan': '2rd Dan', 'description': '../../assets/members/','rank':'2', 'img': '../../assets/members/FRANCIS_GEORGE.jpg'},
+    {'name': 'FLINTO GEORGE', 'dan': '2rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/FLINTO_GEORGE.jpg'},
+    {'name': 'GIRISH S KAIPPALLIL', 'dan': '2rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/GIRISH_S_KAIPPALLIL.jpg'},
+    {'name': 'RAJESH S', 'dan': '2rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/RAJESH_S.jpg'},
+    {'name': 'SREERAJ S', 'dan': '2rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/SREERAJ_S.jpg'},
+    {'name': 'AJAY JAYAN', 'dan': '2rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/AJAY_JAYAN.jpg'},
+    {'name': 'LINTA RENJITH', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/LINTA_RENJITH.jpg'},
+    {'name': 'VISWANTH A', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/VISWANTH_A.jpg'},
+    {'name': 'ALEENA MARIYAM REJI', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/ALEENA_MARIYAM_REJI.jpg'},
+    {'name': 'JAGATHESH M', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/JAGATHESH_M.jpg'},
+    {'name': 'ALVIN C ROY', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/ALVIN_C_ROY.jpg'},
+    {'name': 'SOORAJ SAMPATH KANDESAR', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/SOORAJ_SAMPATH_KANDESAR.jpg'},
+    {'name': 'SARATH PRAKASH J', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/SARATH_PRAKASH_J.jpg'},
+    {'name': 'ABHISHEK AJIKUMAR', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/ABHISHEK_AJIKUMAR.jpg'},
+    {'name': 'B S ABHIRAJ', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/B_S_ABHIRAJ.jpg'},
+    {'name': 'RISHY S RAJ', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/RISHY_S_RAJ.jpg'},
+    {'name': 'KIRAN RAJ', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/KIRAN_RAJ.jpg'},
+    {'name': 'ABHIRAM R B', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/ABHIRAM_R_B.jpg'},
+    {'name': 'KARTHIK S PILLAI', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/KARTHIK_S_PILLAI.jpg'},
+    {'name': 'RENI ALEXANDER', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/RENI_ALEXANDER.jpg'},
+    {'name': 'KARTHIK J', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/KARTHIK_J.jpg'},
+    {'name': 'AKHOSH DAS S', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/AKHOSH_DAS_S.jpg'},
+    {'name': 'GOVIND D', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/govind.jpg'},
+    {'name': 'ABHIMANYU A', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/ABHIMANYU_A.jpg'},
+    {'name': 'ADITHYAN B RAJ', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/ADITHYAN_B_RAJ.jpg'},
+    {'name': 'VISHNU J', 'dan': '1rd Dan', 'description': '','rank':'2', 'img': '../../assets/members/VISHNU_J.jpg'},
+]
+
   constructor() { }
 
   getCurrentEvents()
@@ -658,5 +693,31 @@ export class MainService {
   getGallery()
   {
     return this.gallery;
+  }
+
+  getLeaders(){
+    return this.listDan.filter((item)=>{
+        if(item.rank == '1')
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    });
+  }
+
+  getMembers(){
+    return this.listDan.filter((item)=>{
+        if(item.rank == '2')
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    });
   }
 }

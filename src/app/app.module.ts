@@ -22,6 +22,7 @@ import { MainService } from './main.service';
 import { GalleryyearlistComponent } from './gallery/galleryyearlist/galleryyearlist.component';
 import { SafeHtmlPipe } from './profile/profile.pipe';
 import { MobileNavbarComponent } from './mobile-navbar/mobile-navbar.component';
+import { MembersComponent } from './members/members.component';
  
 
 const appRoutes: Routes = [
@@ -29,7 +30,8 @@ const appRoutes: Routes = [
   {path: 'profile', component: ProfileComponent },
   {path: 'events', component: EventsComponent },
   {path: 'gallery', component: GalleryComponent },
-  {path: 'contacts', component: ContactsComponent }
+  {path: 'contacts', component: ContactsComponent },
+  {path: 'members', component: MembersComponent }
 ]
 
 
@@ -50,7 +52,8 @@ const appRoutes: Routes = [
     YearlistComponent,
     GalleryyearlistComponent,
     SafeHtmlPipe,
-    MobileNavbarComponent
+    MobileNavbarComponent,
+    MembersComponent
   ],
   imports: [
     BrowserModule,
