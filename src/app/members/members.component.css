@@ -1,28 +1,24 @@
 .cust-col-6{
     width: 50%;
-    /* border:1px solid red; */
     box-sizing: border-box;
     text-align: center;
     padding-top: 20px;
-    
 }
-/*
-#D2691E
-*/
 
 .cust-col-12{
     width: 100%;
     box-sizing: border-box;
     text-align: center;
     padding-top: 20px;
-    color: #EABD50 !important
 }
 .top-row{
-    border-bottom: 1px solid #D2691E !important;
+    border-bottom: 1px solid #EABD50;
     margin-bottom: 10px;
     padding-bottom: 10px;
     text-align: center;
     margin-left: 65px;
+    margin-right: 65px;
+    font-weight: 600 !important;
 }
 .cust-col-6 img{
     height: 290px;
@@ -37,4 +33,17 @@
 }
 .cust-col-4 img{
     height: 200px;
+}
+.main-heading-font {
+    font-weight: 650 !important;
+    text-transform: capitalize !important;
+    color: #D2691E !important;
+}
+.cust-dan-row {
+    border-bottom: 1px solid #EABD50;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    margin-left: 65px;
+    margin-right: 65px;
+    font-weight: 600 !important;
 }

@@ -54,19 +54,25 @@
     }
 } */
 
-@media screen and (min-width: 0px) and (max-width: 400px) {
+@media screen and (min-width: 0px) and (max-width: 480px) {
     .custom-navbar { display: none; }  /* show it on small screens */
     /* .responsive-custom-show{
         display: block;
     } */
     .responsive-custom-show[_ngcontent-c0] {
         display: block;
-        margin-top: 140px;
+        margin-top: 110px;
         margin-bottom: -110px;
+    }
+    .router-class{
+        margin-top: 110px;
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 }
   
-@media screen and (min-width: 401px) and (max-width: 1024px) {
+@media screen and (min-width: 481px) and (max-width: 768px) {
     .custom-navbar { display: block; }   /* hide it elsewhere */
     /* .responsive-custom-show{
         display: none;

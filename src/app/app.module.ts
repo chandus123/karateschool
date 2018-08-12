@@ -23,6 +23,7 @@ import { GalleryyearlistComponent } from './gallery/galleryyearlist/galleryyearl
 import { SafeHtmlPipe } from './profile/profile.pipe';
 import { MobileNavbarComponent } from './mobile-navbar/mobile-navbar.component';
 import { MembersComponent } from './members/members.component';
+import { MergePipe } from './merge.pipe';
  
 
 const appRoutes: Routes = [
@@ -53,7 +54,8 @@ const appRoutes: Routes = [
     GalleryyearlistComponent,
     SafeHtmlPipe,
     MobileNavbarComponent,
-    MembersComponent
+    MembersComponent,
+    MergePipe
   ],
   imports: [
     BrowserModule,

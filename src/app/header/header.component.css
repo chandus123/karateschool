@@ -37,7 +37,32 @@
 .banner-holder{
     text-align: center;
 }
-@media screen and (min-width: 0px) and (max-width: 1014px) {
+@media screen and (min-width: 0px) and (max-width: 480px) {
+    .cust-logo-four{
+        display: block;
+    }
+    .cust-logo-three{
+        display: none;
+    }
+    .banner-holder{
+        width: 100%;
+    }
+    .cust-logo{
+        height: 50px;
+        width: auto;
+    }
+    .cust-logo-second{
+        height: 50px;
+        width: auto;
+    }
+    .cust-logo-one{
+        text-align: left;
+    }
+    .cust-banner{
+        height: 40px;
+    }
+}
+@media screen and (min-width: 481px) and (max-width: 768px) {
     .cust-logo-four{
         display: block;
     }
