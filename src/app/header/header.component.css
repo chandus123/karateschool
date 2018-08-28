@@ -62,15 +62,39 @@
         height: 40px;
     }
 }
-@media screen and (min-width: 481px) and (max-width: 768px) {
-    .cust-logo-four{
-        display: block;
-    }
+
+@media screen and (min-width: 481px) and (max-width: 700px) {
     .cust-logo-three{
         display: none;
     }
     .banner-holder{
         width: 100%;
+    }
+    .cust-logo-four{
+        display: block;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 1015px) {
+    .cust-logo-three{
+        width: auto;
+    }
+    .cust-logo-one{
+        width: auto;
+    }
+    .cust-logo{
+        height: 80px;
+        width: auto;
+    }
+    .cust-logo-second{
+        height: 80px;
+        width: auto;
+    }
+    .cust-logo-one{
+        text-align: left;
+    }
+    .cust-banner{
+        height: 80px;
     }
 }
 

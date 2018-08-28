@@ -1,9 +1,11 @@
 <div [ngClass]="cls" id="myTopnav">
-  <a routerLinkActive="active" routerLink="/" [routerLinkActiveOptions]="{ exact: true}">Welcome</a>
-  <a routerLinkActive="active" routerLink="/profile" >Profile</a>
-  <a routerLinkActive="active" routerLink="/events" >Events</a>
-  <a routerLinkActive="active" routerLink="/gallery" >Gallery</a>
-  <a routerLinkActive="active" routerLink="/contacts" >Contact</a>
+
+  <a class="activeBar">{{ currentUrl | titlecase }}</a>
+  <a routerLinkActive="active" (click)="chanFunction()" routerLink="/" [routerLinkActiveOptions]="{ exact: true}">Welcome</a>
+  <a routerLinkActive="active" (click)="chanFunction()" routerLink="/profile" >Profile</a>
+  <a routerLinkActive="active" (click)="chanFunction()" routerLink="/events" >Events</a>
+  <a routerLinkActive="active" (click)="chanFunction()" routerLink="/gallery" >Gallery</a>
+  <a routerLinkActive="active" (click)="chanFunction()" routerLink="/contacts" >Contact</a>
   <a href="javascript:void(0);" class="icon" (click)="myFunction()">
     <i class="fa fa-bars"></i>
   </a>

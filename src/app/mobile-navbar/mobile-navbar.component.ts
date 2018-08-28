@@ -1,4 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit,  } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+import { Router,  NavigationEnd } from '@angular/router';
+
 
 @Component({
   selector: 'app-mobile-navbar',
@@ -8,12 +11,36 @@ import { Component, OnInit } from '@angular/core';
 export class MobileNavbarComponent implements OnInit {
 
   cls = [];
+  currentUrl;
 
-  constructor() { 
+  constructor(private router: Router) { 
     this.cls.push('topnav');
   }
 
+  
   ngOnInit() {
+    this.router.events
+    .subscribe((event) => {
+      if(event instanceof NavigationEnd)
+      {
+        console.log('NavigationEnd:', event);
+        if(event['url'] == '/')
+        {
+          this.currentUrl = 'welcome';
+        }
+        else
+        {
+          this.currentUrl = event['url'].substring(1,event['url'].length);
+        }
+        console.log(this.currentUrl);
+      }
+      
+    });
+  }
+
+  chanFunction()
+  {
+    this.cls.pop();
   }
 
   myFunction(){

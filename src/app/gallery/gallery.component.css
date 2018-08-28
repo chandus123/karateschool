@@ -74,3 +74,15 @@ button{
     padding-left: 94px;
     padding-right: 0px;
 }
+
+@media screen and (min-width: 0px) and (max-width: 480px) {
+    .glry-cls{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 1015px) {
+    .glry-cls{
+        display: none;
+    }
+}

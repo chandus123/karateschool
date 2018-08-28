@@ -55,10 +55,7 @@
 } */
 
 @media screen and (min-width: 0px) and (max-width: 480px) {
-    .custom-navbar { display: none; }  /* show it on small screens */
-    /* .responsive-custom-show{
-        display: block;
-    } */
+    .custom-navbar { display: none; }
     .responsive-custom-show[_ngcontent-c0] {
         display: block;
         margin-top: 110px;
@@ -71,13 +68,27 @@
         padding-right: 30px;
     }
 }
+
   
-@media screen and (min-width: 481px) and (max-width: 768px) {
-    .custom-navbar { display: block; }   /* hide it elsewhere */
-    /* .responsive-custom-show{
-        display: none;
-    } */
-    .responsive-custom-show[_ngcontent-c0] {
-        display: none;
+@media screen and (min-width: 481px) and (max-width: 1015px) {
+    .custom-navbar { display: none; }   /* hide it elsewhere */
+    .responsive-custom-show {
+        display: block;
+        margin-top: 188px;
+        margin-bottom: -110px;
+    }
+    .router-class{
+        margin-top: 110px;
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1015px) {
+    .responsive-custom-show {
+        display: block;
+        margin-top: 110px;
+        margin-bottom: -110px;
     }
 }
