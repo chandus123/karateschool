@@ -18,6 +18,8 @@ export class ImagesliderComponentComponent implements OnInit {
       '../../../assets/s2-imo.png',
       '../../../assets/s3-imo.png',
       '../../../assets/s4-imo.png',
+      '../../../assets/s5-imo.png',
+      '../../../assets/s6-imo.png',
       ];
 
       

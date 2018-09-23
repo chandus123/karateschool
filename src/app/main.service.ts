@@ -90,7 +90,7 @@ export class MainService {
     <p class='p-paragraph' ><b>I</b>n 1996, SUNNY started his own Dojo in Punalur (Kerala, India) and started teaching Shito-Ryu.</p>
     <p class='p-paragraph' ><b>I</b>n 2000, He has been certified as ‘JUDGE – KUMITE’ by All India Karate-Do Federation (AIKF).</p>
     <p class='p-paragraph' ><b>I</b>n 2016, He has been certified as ‘JUDGE – KUMITE’ by Karate Association of India (KAI).</p>
-    <p class='p-paragraph' ><b>I</b>n 2017, he has been awarded the title of ‘Chief Instructor - Ryushin-Kan India’.</p>
+    <p class='p-paragraph' ><b>I</b>n 2017, he has been awarded the title of ‘Chief Instructor & Technical Director - Ryushin-Kan India’.</p>
     <p class='p-paragraph' ><b>I</b>n 2018, he has been awarded the title of ‘Chief Examiner - Ryushin-Kan India’.</p>
     <center>
     <h4 class="cust-h4" >Dan</h4>
@@ -254,8 +254,8 @@ export class MainService {
     </center>
     `),
     
-    new Profiledetails('MASUYAMA Takeshi <br/><span class="subtitle">SWKU-Ryushin-Kan</span><br/><span class="subtitle">Soke 9th Dan</span>','../../assets/02_Soke_Masuyama_Takeshi.png', `<p class='p-paragraph' ><b>B</b>orn in 1949, MASUYAMA Takeshi, Founder of  Ryushin-Kan International Karate-do Federation</p>
-<p class='p-paragraph' ><b>L</b>earned directly from TANI Chojiro, Founder of Shuko-Kai World Karate Union</p><p class='p-paragraph' ><b>A</b> direct disciple of MABUNI Kenwa,  Founder of  Shito-Ryu Karate</p><p class='p-paragraph' ><b>W</b>ho had learned Shuri-Te from ITOSU Anko and Nara-Te from HIGASHIONNA Kanryo, in Okinawa</p>
+    new Profiledetails('MASUYAMA Takeshi <br/><span class="subtitle">SWKU-Ryushin-Kan</span><br/><span class="subtitle">Soke 9th Dan</span>','../../assets/02_Soke_Masuyama_Takeshi.png', `<p class='p-paragraph' ><b>B</b>orn in 1949, MASUYAMA Takeshi started karate in April 1965.</p>
+<p class='p-paragraph' ><b>H</b>e learned directly from TANI Chojiro, founder of Shuko-Kai World Karate Union and a direct disciple of MABUNI Kenwa who is the Founder of Shito-Ryu Karate and who had learned Shuri-Te from ITOSU Anko and Naha-Te from HIGASHIONNA Kanryo, in Okinawa.</p><p class='p-paragraph' ><b>I</b>n March 2002 he founded the Ryushin-Kan International Karate-do Federation.</p>
     
     <center>
     
