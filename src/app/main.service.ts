@@ -90,7 +90,7 @@ export class MainService {
     <p class='p-paragraph' ><b>I</b>n 1996, SUNNY started his own Dojo in Punalur (Kerala, India) and started teaching Shito-Ryu.</p>
     <p class='p-paragraph' ><b>I</b>n 2000, He has been certified as ‘JUDGE – KUMITE’ by All India Karate-Do Federation (AIKF).</p>
     <p class='p-paragraph' ><b>I</b>n 2016, He has been certified as ‘JUDGE – KUMITE’ by Karate Association of India (KAI).</p>
-    <p class='p-paragraph' ><b>I</b>n 2017, he has been awarded the title of ‘Chief Instructor & Technical irector - Ryushin-Kan India’.</p>
+    <p class='p-paragraph' ><b>I</b>n 2017, he has been awarded the title of ‘Chief Instructor & Technical Director - Ryushin-Kan India’.</p>
     <p class='p-paragraph' ><b>I</b>n 2018, he has been awarded the title of ‘Chief Examiner - Ryushin-Kan India’.</p>
     <center>
     <h4 class="cust-h4" >Dan</h4>
