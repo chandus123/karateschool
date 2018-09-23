@@ -85,3 +85,7 @@ table{
 .profile-content{
     padding-bottom: 10px;
 }
+
+.break-table{
+    word-break: break-word;
+}

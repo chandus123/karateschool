@@ -90,163 +90,220 @@ export class MainService {
     <p class='p-paragraph' ><b>I</b>n 1996, SUNNY started his own Dojo in Punalur (Kerala, India) and started teaching Shito-Ryu.</p>
     <p class='p-paragraph' ><b>I</b>n 2000, He has been certified as ‘JUDGE – KUMITE’ by All India Karate-Do Federation (AIKF).</p>
     <p class='p-paragraph' ><b>I</b>n 2016, He has been certified as ‘JUDGE – KUMITE’ by Karate Association of India (KAI).</p>
-    <p class='p-paragraph' ><b>I</b>n 2017, he has been awarded the title of ‘Chief Instructor & Technical Director - Ryushin-Kan India’.</p>
+    <p class='p-paragraph' ><b>I</b>n 2017, he has been awarded the title of ‘Chief Instructor & Technical irector - Ryushin-Kan India’.</p>
     <p class='p-paragraph' ><b>I</b>n 2018, he has been awarded the title of ‘Chief Examiner - Ryushin-Kan India’.</p>
     <center>
     <h4 class="cust-h4" >Dan</h4>
-    <table class="cust-table" border="1" style="width:100%; text-align:center;">
+    <table class="cust-table break-table" border="1" style="width:100%; text-align:center;">
     <tbody>
     <tr>
-<td width="147">
-<p>Sho-Dan &nbsp;</p>
+<td>
+<p>Sho-Dan</p>
 </td>
-<td width="112">
-<p>(1st)&nbsp;</p>
+<td>
+<p>(1st)</p>
 </td>
-<td width="87">
+<td>
 <p>1988</p>
 </td>
-<td width="118">
+<td>
 <p>September</p>
 </td>
-<td width="74">
+<td>
 <p>5th</p>
 </td>
 </tr>
 <tr>
-<td width="147">
-<p>Ni-Dan&nbsp;</p>
+<td>
+<p>Ni-Dan</p>
 </td>
-<td width="112">
+<td>
 <p>(2nd)</p>
 </td>
-<td width="87">
+<td>
 <p>1993</p>
 </td>
-<td width="118">
+<td>
 <p>May</p>
 </td>
-<td width="74">
+<td>
 <p>8th</p>
 </td>
 </tr>
 <tr>
-<td width="147">
+<td>
 <p>San-Dan</p>
 </td>
-<td width="112">
+<td>
 <p>(3rd)</p>
 </td>
-<td width="87">
+<td>
 <p>1993</p>
 </td>
-<td width="118">
+<td>
 <p>May</p>
 </td>
-<td width="74">
+<td>
 <p>8th</p>
 </td>
 </tr>
 <tr>
-<td width="147">
-<p>Yon-Dan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<td>
+<p>Yon-Dan</p>
 </td>
-<td width="112">
+<td>
 <p>(4th)</p>
 </td>
-<td width="87">
+<td>
 <p>1998</p>
 </td>
-<td width="118">
+<td>
 <p>December</p>
 </td>
-<td width="74">
-<p>22nd&nbsp;&nbsp;</p>
+<td>
+<p>22nd</p>
 </td>
 </tr>
+
 <tr>
-<td width="147">
-<p>Go-Dan&nbsp;&nbsp;</p>
+<td>
+<p>Ni-Dan (AIKF)</p>
 </td>
-<td width="112">
-<p>(5th)&nbsp;</p>
+<td>
+<p>(2nd)</p>
 </td>
-<td width="87">
-<p>2000&nbsp;</p>
+<td>
+<p>2000</p>
 </td>
-<td width="118">
-<p>August</p>
+<td>
+<p>February</p>
 </td>
-<td width="74">
+<td>
 <p>5th</p>
 </td>
 </tr>
+
 <tr>
-<td width="147">
-<p>Roku-Dan&nbsp;</p>
+<td>
+<p>Go-Dan</p>
 </td>
-<td width="112">
-<p>(6th)&nbsp;</p>
+<td>
+<p>(5th)</p>
 </td>
-<td width="87">
-<p>2017</p>
+<td>
+<p>2000</p>
 </td>
-<td width="118">
-<p>March&nbsp;</p>
+<td>
+<p>August</p>
 </td>
-<td width="74">
-<p>29th&nbsp;</p>
+<td>
+<p>5th</p>
 </td>
 </tr>
+
 <tr>
-<td width="147">
-<p>Nana-Dan&nbsp;&nbsp;</p>
+<td>
+<p>Roku-Dan (AIKF)</p>
 </td>
-<td width="112">
-<p>(7th)</p>
+<td>
+<p>(6th)</p>
 </td>
-<td width="87">
+<td>
 <p>2017</p>
 </td>
-<td width="118">
-<p>March&nbsp;</p>
+<td>
+<p>February</p>
 </td>
-<td width="74">
+<td>
+<p>8th</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p>Roku-Dan</p>
+</td>
+<td>
+<p>(6th)</p>
+</td>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>March</p>
+</td>
+<td>
 <p>29th</p>
 </td>
 </tr>
 <tr>
-<td width="147">
-<p>Roku-Dan&nbsp;(Ryushin-Kan)</p>
+<td>
+<p>Nana-Dan</p>
 </td>
-<td width="112">
+<td>
+<p>(7th)</p>
+</td>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>March</p>
+</td>
+<td>
+<p>29th</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p>Nana-Dan (AIKF)</p>
+</td>
+<td>
+<p>(7th)</p>
+</td>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>October</p>
+</td>
+<td>
+<p>29th</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p>Roku-Dan (Ryushin-Kan)</p>
+</td>
+<td>
 <p>(6th)</p>
 </td>
-<td width="87">
+<td>
 <p>2018</p>
 </td>
-<td width="118">
+<td>
 <p>February</p>
 </td>
-<td width="74">
-<p>10th&nbsp;</p>
+<td>
+<p>10th</p>
 </td>
 </tr>
 <tr>
-<td width="147">
-<p>Nana-Dan&nbsp;(Ryushin-Kan)</p>
+<td>
+<p>Nana-Dan (Ryushin-Kan)</p>
 </td>
-<td width="112">
+<td>
 <p>(7th)</p>
 </td>
-<td width="87">
+<td>
 <p>2018</p>
 </td>
-<td width="118">
+<td>
 <p>February</p>
 </td>
-<td width="74">
-<p>10th&nbsp;</p>
+<td>
+<p>10th</p>
 </td>
 </tr>
     </tbody>
@@ -259,346 +316,346 @@ export class MainService {
     
     <center>
     
-    <h4 class="cust-h4" >Dan</h4>
+    <h4 class="cust-h4">Dan</h4>
     
-    <table class="cust-table" border="1" style="width:100%; text-align:center;">
+    <table class="cust-table break-table" border="1" style="width:100%; text-align:center;">
     <tbody>
-    <td colspan="2" width="148">
-    <p><span style=";">Sho-Dan &nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">Sho-Dan</span></p>
     </td>
-    <td width="110">
-    <p><span style="">(1st)&nbsp;</span></p>
+    <td>
+    <p><span style="">(1st)</span></p>
     </td>
-    <td colspan="3" width="84">
-    <p><span style=";">1973</span></p>
+    <td colspan="3">
+    <p><span style="">1973</span></p>
     </td>
-    <td colspan="2" width="116">
-    <p><span style=";">April</span></p>
+    <td colspan="2">
+    <p><span style="">April</span></p>
     </td>
-    <td width="162">
-    <p><span style=";">21st&nbsp;</span></p>
+    <td>
+    <p><span style="">21st</span></p>
     </td>
     </tr>
     <tr>
-    <td colspan="2" width="148">
-    <p><span style=";">Ni-Dan&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">Ni-Dan</span></p>
     </td>
-    <td width="110">
+    <td>
     <p><span style="">(2nd)</span></p>
     </td>
-    <td colspan="3" width="84">
-    <p><span style=";">1974</span></p>
+    <td colspan="3" >
+    <p><span style="">1974</span></p>
     </td>
-    <td colspan="2" width="116">
-    <p><span style=";">December</span></p>
+    <td colspan="2" >
+    <p><span style="">December</span></p>
     </td>
-    <td width="162">
-    <p><span style=";">12th</span></p>
+    <td >
+    <p><span style="">12th</span></p>
     </td>
     </tr>
     <tr>
-    <td colspan="2" width="148">
-    <p><span style=";">San-Dan</span></p>
+    <td colspan="2">
+    <p><span style="">San-Dan</span></p>
     </td>
-    <td width="110">
+    <td>
     <p><span style="">(3rd)</span></p>
     </td>
-    <td colspan="3" width="84">
-    <p><span style=";">1975</span></p>
+    <td colspan="3">
+    <p><span style="">1975</span></p>
     </td>
-    <td colspan="2" width="116">
-    <p><span style=";">December</span></p>
+    <td colspan="2">
+    <p><span style="">December</span></p>
     </td>
-    <td width="162">
-    <p><span style=";">19th</span></p>
+    <td>
+    <p><span style="">19th</span></p>
     </td>
     </tr>
     <tr>
-    <td colspan="2" width="148">
-    <p><span style=";">Yon-Dan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">Yon-Dan</span></p>
     </td>
-    <td width="110">
+    <td>
     <p><span style="">(4th)</span></p>
     </td>
-    <td colspan="3" width="84">
-    <p><span style=";">1977</span></p>
+    <td colspan="3">
+    <p><span style="">1977</span></p>
     </td>
-    <td colspan="2" width="116">
-    <p><span style=";">October</span></p>
+    <td colspan="2">
+    <p><span style="">October</span></p>
     </td>
-    <td width="162">
-    <p><span style=";">21st&nbsp;&nbsp;</span></p>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="2" width="148">
-    <p><span style=";">Go-Dan&nbsp;&nbsp;</span></p>
-    </td>
-    <td width="110">
-    <p><span style="">(5th)&nbsp;</span></p>
-    </td>
-    <td colspan="3" width="84">
-    <p><span style=": medium;">1981&nbsp;</span></p>
-    </td>
-    <td colspan="2" width="116">
-    <p><span style=";">March</span></p>
-    </td>
-    <td width="162">
-    <p><span style=";">23rd</span></p>
+    <td>
+    <p><span style="">21st</span></p>
     </td>
     </tr>
     <tr>
-    <td colspan="2" width="148">
-    <p><span style=";">Roku-Dan&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">Go-Dan</span></p>
     </td>
-    <td width="110">
-    <p><span style="">(6th)&nbsp;</span></p>
+    <td>
+    <p><span style="">(5th)</span></p>
     </td>
-    <td colspan="3" width="84">
-    <p><span style=";">1985</span></p>
+    <td colspan="3">
+    <p><span style="">1981</span></p>
     </td>
-    <td colspan="2" width="116">
-    <p><span style=";">March&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">March</span></p>
     </td>
-    <td width="162">
-    <p><span style=";">1st&nbsp;</span></p>
+    <td>
+    <p><span style="">23rd</span></p>
     </td>
     </tr>
     <tr>
-    <td colspan="2" width="148">
-    <p><span style=";">Nana-Dan&nbsp;&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">Roku-Dan</span></p>
     </td>
-    <td width="110">
+    <td>
+    <p><span style="">(6th)</span></p>
+    </td>
+    <td colspan="3">
+    <p><span style="">1985</span></p>
+    </td>
+    <td colspan="2">
+    <p><span style="">March</span></p>
+    </td>
+    <td>
+    <p><span style="">1st</span></p>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="2">
+    <p><span style="">Nana-Dan</span></p>
+    </td>
+    <td>
     <p><span style="">(7th)</span></p>
     </td>
-    <td colspan="3" width="84">
-    <p><span style=";">1990</span></p>
+    <td colspan="3">
+    <p><span style="">1990</span></p>
     </td>
-    <td colspan="2" width="116">
-    <p><span style=";">April&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">April</span></p>
     </td>
-    <td width="162">
-    <p><span style=";">17th</span></p>
+    <td>
+    <p><span style="">17th</span></p>
     </td>
     </tr>
     <tr>
-    <td colspan="2" width="148">
-    <p><span style=";">Hachi- Dan</span></p>
+    <td colspan="2">
+    <p><span style="">Hachi-Dan</span></p>
     </td>
-    <td width="110">
+    <td>
     <p><span style="">(8th)</span></p>
     </td>
-    <td colspan="3" width="84">
-    <p><span style=";">2000</span></p>
+    <td colspan="3">
+    <p><span style="">2000</span></p>
     </td>
-    <td colspan="2" width="116">
-    <p><span style=";">November</span></p>
+    <td colspan="2">
+    <p><span style="">November</span></p>
     </td>
-    <td width="162">
-    <p><span style=";">5th&nbsp;</span></p>
+    <td>
+    <p><span style="">5th</span></p>
     </td>
     </tr>
     <tr>
   </tbody>
   </table>
-  <h4 class="cust-h4" >Titles Received</h4>
-  <table class="cust-table" border="1">
+  <h4 class="cust-h4">Titles Received</h4>
+  <table class="cust-table break-table" border="1">
   <tbody>
     
     <tr>
-    <td width="79">
-    <p><span style=";">Shido&nbsp;</span></p>
+    <td>
+    <p><span style="">Shido</span></p>
     </td>
-    <td colspan="3" width="181">
+    <td colspan="3">
     <p><span style="">Instructor</span></p>
     </td>
-    <td width="76">
+    <td>
     <p><span style="">1975</span></p>
     </td>
-    <td colspan="2" width="102">
+    <td colspan="2">
     <p><span style="">January</span></p>
     </td>
-    <td colspan="2" width="182">
-    <p><span style="">18th&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">18th</span></p>
     </td>
     </tr>
     <tr>
-    <td width="79">
-    <p><span style=";">Shihan&nbsp;</span></p>
+    <td>
+    <p><span style="">Shihan</span></p>
     </td>
-    <td colspan="3" width="181">
+    <td colspan="3">
     <p><span style="">Head of Dojo</span></p>
     </td>
-    <td width="76">
+    <td>
     <p><span style="">1992</span></p>
     </td>
-    <td colspan="2" width="102">
-    <p><span style="">December&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">December</span></p>
     </td>
-    <td colspan="2" width="182">
-    <p><span style="">1st&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">1st</span></p>
     </td>
     </tr>
     <tr>
-    <td width="79">
-    <p><span style=";">Kyoshi&nbsp;</span></p>
+    <td>
+    <p><span style="">Kyoshi</span></p>
     </td>
-    <td colspan="3" width="181">
+    <td colspan="3">
     <p><span style="">Leader</span></p>
     </td>
-    <td width="76">
+    <td>
     <p><span style="">1997</span></p>
     </td>
-    <td colspan="2" width="102">
-    <p><span style="">November&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">November</span></p>
     </td>
-    <td colspan="2" width="182">
-    <p><span style="">3rd&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">3rd</span></p>
     </td>
     </tr>
     <tr>
-    <td width="79">
-    <p><span style=";">Hanshi&nbsp;&nbsp;</span></p>
+    <td>
+    <p><span style="">Hanshi</span></p>
     </td>
-    <td colspan="3" width="181">
-    <p><span style="">Great master&nbsp; ( litt. "model")</span></p>
+    <td colspan="3">
+    <p><span style="">Great master (litt. "model")</span></p>
     </td>
-    <td width="76">
+    <td>
     <p><span style="">2000</span></p>
     </td>
-    <td colspan="2" width="102">
-    <p><span style="">December&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">December</span></p>
     </td>
-    <td colspan="2" width="182">
-    <p><span style="">12th&nbsp;</span></p>
+    <td colspan="2">
+    <p><span style="">12th</span></p>
     </td>
     </tr>
     </tbody>
     </table>
 
-    <h4 class="cust-h4" >A Summary of his Career in the&nbsp;S.W.K.U</h4>
-    <h4 class="cust-h4" >RYUSHIN-KAN International Karate Federation&nbsp;</h4>
+    <h4 class="cust-h4" >A Summary of his Career in the S.W.K.U</h4>
+    <h4 class="cust-h4" >RYUSHIN-KAN International Karate Federation</h4>
     <table class="cust-table" border="1" style="width:100%; text-align:center;" cellspacing="0" cellpadding="1">
     <tbody>
     <tr>
-    <td width="78">
-    <p><span style="">April&nbsp;</span></p>
+    <td>
+    <p><span style="">April</span></p>
     </td>
-    <td width="45">
-    <p><span style="">1965&nbsp;</span></p>
+    <td>
+    <p><span style="">1965</span></p>
     </td>
-    <td width="463">
+    <td>
     <p><span style="">Joined S.W.K.U</span></p>
     </td>
     </tr>
     <tr>
-    <td width="78">
-    <p><span style="">January&nbsp;</span></p>
+    <td>
+    <p><span style="">January</span></p>
     </td>
-    <td width="45">
+    <td>
     <p><span style="">1975</span></p>
     </td>
-    <td width="463">
-    <p><span style="">Became Superintendent of&nbsp; S.W.K.U.&nbsp;</span></p>
+    <td>
+    <p><span style="">Became Superintendent of S.W.K.U.</span></p>
     </td>
     </tr>
     <tr>
-    <td width="78">
-    <p><span style="">January&nbsp;</span></p>
+    <td>
+    <p><span style="">January</span></p>
     </td>
-    <td width="45">
+    <td>
     <p><span style="">1975</span></p>
     </td>
-    <td width="463">
-    <p><span style="">Became Supervisor of&nbsp; S.W.K.U.&nbsp;</span></p>
+    <td>
+    <p><span style="">Became Supervisor of S.W.K.U.</span></p>
     </td>
     </tr>
     <tr>
-    <td width="78">
-    <p><span style="">July&nbsp;</span></p>
+    <td>
+    <p><span style="">July</span></p>
     </td>
-    <td width="45">
+    <td>
     <p><span style="">1978</span></p>
     </td>
-    <td width="463">
-    <p><span style="">Branch Chief of&nbsp; Shuko-Kai Youth Karate Development,&nbsp;</span></p>
+    <td>
+    <p><span style="">Branch Chief of Shuko-Kai Youth Karate Development,</span></p>
     </td>
     </tr>
     <tr>
-    <td width="78">
-    <p><span style="">July&nbsp;</span></p>
+    <td>
+    <p><span style="">July</span></p>
     </td>
-    <td width="45">
+    <td>
     <p><span style="">1978</span></p>
     </td>
-    <td width="463">
-    <p><span style="">Founded the Shuko-Kai Headquarters' second dojo,&nbsp;</span></p>
+    <td>
+    <p><span style="">Founded the Shuko-Kai Headquarters' second dojo,</span></p>
     </td>
     </tr>
     <tr>
-    <td width="78">
-    <p><span style="">March&nbsp;</span></p>
-    </td>
-    <td width="45">
-    <p><span style="">1981</span></p>
-    </td>
-    <td width="463">
-    <p><span style="">Founded the Zebra Club Headquarters ,&nbsp;</span></p>
-    </td>
-    </tr>
-    <tr>
-    <td width="78">
-    <p><span style="">June&nbsp;</span></p>
-    </td>
-    <td width="45">
-    <p><span style="">1997</span></p>
-    </td>
-    <td width="463">
-    <p><span style="">Became Shihan of the Overseas Karate-Do Development,&nbsp;</span></p>
-    </td>
-    </tr>
-    <tr>
-    <td width="78">
-    <p><span style="">November&nbsp;</span></p>
-    </td>
-    <td width="45">
-    <p><span style="">1997</span></p>
-    </td>
-    <td width="463">
-    <p><span style="">Founded the Ryushin-Kan Headquarters,&nbsp;</span></p>
-    </td>
-    </tr>
-    <tr>
-    <td width="78">
-    <p><span style="">September&nbsp;</span></p>
-    </td>
-    <td width="45">
-    <p><span style="">2000</span></p>
-    </td>
-    <td width="463">
-    <p><span style="">Became President of S.W.K.U. South Africa,&nbsp;</span></p>
-    </td>
-    </tr>
-    <tr>
-    <td width="78">
-    <p><span style="">December&nbsp;</span></p>
-    </td>
-    <td width="45">
-    <p><span style="">2000</span></p>
-    </td>
-    <td width="463">
-    <p><span style="">Became Hanshi of S.W.K.U. Headquarters,&nbsp;</span></p>
-    </td>
-    </tr>
-    <tr>
-    <td valign="top" width="78">
+    <td>
     <p><span style="">March</span></p>
     </td>
-    <td valign="top" width="45">
+    <td>
+    <p><span style="">1981</span></p>
+    </td>
+    <td>
+    <p><span style="">Founded the Zebra Club Headquarters,</span></p>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <p><span style="">June</span></p>
+    </td>
+    <td>
+    <p><span style="">1997</span></p>
+    </td>
+    <td>
+    <p><span style="">Became Shihan of the Overseas Karate-Do Development,</span></p>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <p><span style="">November</span></p>
+    </td>
+    <td>
+    <p><span style="">1997</span></p>
+    </td>
+    <td>
+    <p><span style="">Founded the Ryushin-Kan Headquarters,</span></p>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <p><span style="">September</span></p>
+    </td>
+    <td>
+    <p><span style="">2000</span></p>
+    </td>
+    <td>
+    <p><span style="">Became President of S.W.K.U. South Africa,</span></p>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <p><span style="">December</span></p>
+    </td>
+    <td>
+    <p><span style="">2000</span></p>
+    </td>
+    <td>
+    <p><span style="">Became Hanshi of S.W.K.U. Headquarters,</span></p>
+    </td>
+    </tr>
+    <tr>
+    <td valign="top">
+    <p><span style="">March</span></p>
+    </td>
+    <td valign="top">
     <p><span style="">2002</span></p>
     </td>
-    <td width="463">
-    <p><span style="">Founded the Ryushin-Kan International Karate-do Federation,&nbsp;</span></p>
+    <td>
+    <p><span style="">Founded the Ryushin-Kan International Karate-do Federation,</span></p>
     </td>
     </tr>
     </tbody>
