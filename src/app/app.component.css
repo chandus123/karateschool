@@ -56,9 +56,9 @@
 
 @media screen and (min-width: 0px) and (max-width: 480px) {
     .custom-navbar { display: none; }
-    .responsive-custom-show[_ngcontent-c0] {
+    .responsive-custom-show{
         display: block;
-        margin-top: 110px;
+        margin-top: 140px;
         margin-bottom: -110px;
     }
     .router-class{
@@ -66,6 +66,7 @@
         width: 100%;
         padding-left: 30px;
         padding-right: 30px;
+        word-break: break-word;
     }
 }
 
@@ -74,7 +75,7 @@
     .custom-navbar { display: none; }   /* hide it elsewhere */
     .responsive-custom-show {
         display: block;
-        margin-top: 188px;
+        margin-top: 170px;
         margin-bottom: -110px;
     }
     .router-class{

@@ -59,7 +59,8 @@
         text-align: left;
     }
     .cust-banner{
-        height: 40px;
+        max-height: 60px;
+        max-width: 100%;
     }
 }
 
@@ -83,11 +84,11 @@
         width: auto;
     }
     .cust-logo{
-        height: 80px;
+        height: 60px;
         width: auto;
     }
     .cust-logo-second{
-        height: 80px;
+        height: 60px;
         width: auto;
     }
     .cust-logo-one{
@@ -98,3 +99,9 @@
     }
 }
 
+@media screen and (min-width: 0px) and (max-width: 359px) {
+    .cust-banner{
+        max-height: 50px;
+        max-width: 100%;
+    }
+}

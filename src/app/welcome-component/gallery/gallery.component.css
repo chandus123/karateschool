@@ -5,11 +5,14 @@
     text-align: center;
 }
 .cust-img{
-    height: 300px;
+    /* height: 300px;
     width: auto;
     text-align: center;
     padding-top: 70px;
-    padding-bottom: 70px;
+    padding-bottom: 70px; */
+    height: inherit;
+    width: auto;
+    max-height: 180px;
 }
 .main-heading-font{
     font-weight: 650 !important;

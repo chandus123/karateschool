@@ -18,10 +18,13 @@
     text-align: center;
 }
 .cust-img{
-    height:300px;
+    /* height:300px;
     width:auto;
     padding-bottom: 70px;
-    padding-top: 40px;
+    padding-top: 40px; */
+    height: inherit;
+    width: auto;
+    max-height: 180px;
 }
 .cust-description{
     color: #EABD50;

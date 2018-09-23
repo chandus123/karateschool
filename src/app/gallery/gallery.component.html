@@ -1,7 +1,8 @@
 <div class="row component-class">
   <div class="col-md-10 cust-content">
-    <div class="row">
-      <div  class="template col-md-3" *ngFor="let item of currentGallery;let i = index">
+    <div class="flex-container">
+      <div  class="template custom-resp" *ngFor="let item of currentGallery;let i = index">
+        <span class="helper"></span>
         <img [src]="item" (click)="open(content, item, i)" />
       </div>
     </div>
@@ -18,8 +19,8 @@
           <span aria-hidden="true">&times;</span>
       </button>
     </div>
-    <div>
-      <img [src]="selectedImg" class="modal-img"/>
+    <div class="modal-img">
+      <img [src]="selectedImg"/>
     </div>
     <div class="options">
       <img (click)="previous()" src="../../assets/rightarrow.svg" class="leftarrow" />
