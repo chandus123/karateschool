@@ -77,3 +77,11 @@
     margin-left: 0px !important;
     margin-right: 0px !important;
 } */
+
+table{
+    word-break: initial;
+}
+
+.profile-content{
+    padding-bottom: 10px;
+}
