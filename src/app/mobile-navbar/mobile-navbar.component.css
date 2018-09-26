@@ -1,3 +1,7 @@
+.menu-dec{
+    background-color: #d2691e1a;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
@@ -31,6 +35,8 @@
 .topnav .icon {
     display: none;
 }
+
+
 
 @media screen and (min-width: 601px) {
     .activeBar{

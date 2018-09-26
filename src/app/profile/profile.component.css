@@ -89,3 +89,14 @@ table{
 .break-table{
     word-break: break-word;
 }
+
+@media screen and (min-width: 0px) and (max-width: 300px) {
+    .profile-img{
+        height: auto;
+        width: 100%;
+        display: block;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

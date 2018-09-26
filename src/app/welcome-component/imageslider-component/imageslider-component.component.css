@@ -17,8 +17,18 @@
     text-align: center;
 }
 
-@media only screen and (max-width: 400px) {
+@media screen and (min-width: 0px) and (max-width: 480px) {
     .cust-img{
-        height:160px;
+        height:auto;
+        width: 100%;
+        max-height: 300px;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 1015px) {
+    .cust-img{
+        height:auto;
+        width: 100%;
+        max-height: 300px;
     }
 }

@@ -535,7 +535,7 @@ export class MainService {
 
     <h4 class="cust-h4" >A Summary of his Career in the S.W.K.U</h4>
     <h4 class="cust-h4" >RYUSHIN-KAN International Karate Federation</h4>
-    <table class="cust-table" border="1" style="width:100%; text-align:center;" cellspacing="0" cellpadding="1">
+    <table class="cust-table break-table" border="1" style="width:100%; text-align:center;" cellspacing="0" cellpadding="1">
     <tbody>
     <tr>
     <td>
