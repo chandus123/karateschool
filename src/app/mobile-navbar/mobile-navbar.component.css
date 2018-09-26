@@ -1,6 +1,4 @@
-.menu-dec{
-    background-color: #d2691e1a;
-}
+
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -62,16 +60,27 @@
 }
   
   /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
-  @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
+
+    .menu-dec{
+        background-color: #d2691e1a;
+    }
+
+    .active {
+        background-color: #e3b74d;
+        color: white;
+    }
+
     .topnav.responsive {position: relative;}
+
     .topnav.responsive a.icon {
-      position: absolute;
-      right: 0;
-      top: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
     }
     .topnav.responsive a {
-      float: none;
-      display: block;
-      text-align: left;
+        float: none;
+        display: block;
+        text-align: left;
     }
-  }
+}

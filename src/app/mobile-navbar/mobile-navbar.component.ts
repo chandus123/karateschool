@@ -40,7 +40,11 @@ export class MobileNavbarComponent implements OnInit {
 
   chanFunction()
   {
-    this.cls.pop();
+    var width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+    if(width < 600)
+    {
+      this.cls.pop();
+    }
   }
 
   myFunction(){
