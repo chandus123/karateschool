@@ -311,7 +311,7 @@ export class MainService {
     </center>
     `),
     
-    new Profiledetails('MASUYAMA Takeshi <br/><span class="subtitle">SWKU-Ryushin-Kan</span><br/><span class="subtitle">Soke 9th Dan</span>','../../assets/02_Soke_Masuyama_Takeshi.png', `<p class='p-paragraph' ><b>B</b>orn in 1949, MASUYAMA Takeshi started karate in April 1965.</p>
+    new Profiledetails('MASUYAMA Takeshi <br/><span class="subtitle">SWKU-Ryushin-Kan</span><br/><span class="subtitle">Soke 10th Dan</span>','../../assets/02_Soke_Masuyama_Takeshi.png', `<p class='p-paragraph' ><b>B</b>orn in 1949, MASUYAMA Takeshi started karate in April 1965.</p>
 <p class='p-paragraph' ><b>H</b>e learned directly from TANI Chojiro, founder of Shuko-Kai World Karate Union and a direct disciple of MABUNI Kenwa who is the Founder of Shito-Ryu Karate and who had learned Shuri-Te from ITOSU Anko and Naha-Te from HIGASHIONNA Kanryo, in Okinawa.</p><p class='p-paragraph' ><b>I</b>n March 2002 he founded the Ryushin-Kan International Karate-do Federation.</p>
     
     <center>
